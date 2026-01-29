@@ -1,5 +1,10 @@
 # ai-stash-name
 
+[![npm version](https://img.shields.io/npm/v/ai-stash-name.svg)](https://www.npmjs.com/package/ai-stash-name)
+[![npm downloads](https://img.shields.io/npm/dm/ai-stash-name.svg)](https://www.npmjs.com/package/ai-stash-name)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Stop naming stashes "WIP" or leaving them unnamed. Get meaningful stash names from your actual changes.
 
 ## Install
