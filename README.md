@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-stash-name.svg)](https://www.npmjs.com/package/ai-stash-name)
 [![npm downloads](https://img.shields.io/npm/dm/ai-stash-name.svg)](https://www.npmjs.com/package/ai-stash-name)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-stash-name)](https://github.com/lxgic-studios/ai-stash-name/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Stop naming stashes "WIP" or leaving them unnamed. Get meaningful stash names from your actual changes.
