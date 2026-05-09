@@ -15,30 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "git",
-    "stash",
-    "naming",
-    "workflow",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
+    "claude",
+    "cli",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "git",
+    "gpt",
+    "llm",
+    "llm-optimized",
+    "modern-seo",
     "nodejs",
-    "version-control",
-    "productivity"
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "stash",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-stash-name#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-stash-name"
+    "url": "https://github.com/LXGIC-Studios/ai-stash-name"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-stash-name/issues"
